@@ -24,6 +24,6 @@ def circulate():
 d-eval(input()) 
 x=int(input())
 ## Output:
-
+file:///home/sec/Pictures/Screenshots/Circulating%20Ex%202.png![image](https://user-images.githubusercontent.com/118622554/208252048-c2fecf1e-0475-4b55-a466-85e26b1ac22b.png)
 ## Result:
 The output for Circulating the value is successfull.

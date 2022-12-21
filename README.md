@@ -18,12 +18,14 @@ After giving Circulate print the circulating value,then give required input.
 ### Step 6:
 Then the program and the program output should be pushed in to the github repository using git push -u origin main
 ## Program:
+```
 def circulate():
     Cir=d[x:]+d[:X]
     print("After circulating the values are:",Cir)
 d-eval(input()) 
 x=int(input())
+```
 ## Output:
-
+![OUTPUT](./Circulating%20Ex%202.png)
 ## Result:
 The output for Circulating the value is successfull.

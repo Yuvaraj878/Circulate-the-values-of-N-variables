@@ -19,6 +19,9 @@ After giving Circulate print the circulating value,then give required input.
 Then the program and the program output should be pushed in to the github repository using git push -u origin main
 ## Program:
 ```
+Calculate The values of N variables:
+Name:YUVARAJ.S
+Register Number:22008589
 def circulate():
     Cir=d[x:]+d[:X]
     print("After circulating the values are:",Cir)
